@@ -1,4 +1,4 @@
-# graphlink
+# GraphMaze
 
 Project based on High Performance Graph Analytics
 
