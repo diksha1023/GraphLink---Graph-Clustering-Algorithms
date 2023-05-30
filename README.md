@@ -9,7 +9,9 @@ Project based on High Performance Graph Analytics
 
 *• A Python library consisting of 2 parallel graph algorithms - ’Kmeans’ and ’embedding algorithm using
 *deepwalk’ by utilizing GPU 
+
 *• Achieved a speed increase of upto 30x compared to the traditional kmeans.
+
 *• Implemented the frontend using Python programming language written to support running backend CUDA kernel which
 *is coded in C++ to perform the parallelization task
 
